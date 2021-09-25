@@ -80,4 +80,4 @@ ansible-galaxy install geerlingguy.java
 
 * [ansible postgres role](https://galaxy.ansible.com/geerlingguy/postgresql)
 
-echo "hello"
+hello
